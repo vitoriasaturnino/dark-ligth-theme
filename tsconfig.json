@@ -22,5 +22,9 @@
   },
   "include": [
     "src"
+  ],
+  // aqui posso adicionar algum arquivo especifico para ser conpilado com o projeto
+  "files": [
+    "src/style/style.d.ts"
   ]
 }
