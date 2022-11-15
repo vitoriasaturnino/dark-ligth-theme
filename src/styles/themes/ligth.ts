@@ -2,8 +2,8 @@ export default {
   title: 'ligth',
 
   colors: {
-    primary: '#D65DB1',
-    scundary: '#FF6F91',
+    primary: '#CC00CC',
+    secundary: '#FFC94B',
 
     background: '#f5f5f5',
     text: '#333',
